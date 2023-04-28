@@ -10,7 +10,7 @@ Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell P
 - [x] [Basic Operators](./Operators.sh)
 - [x] [Basic String Operations](./String.sh)
 - [x] [Decision making](./Decision_Making.sh)
-- [ ] [Loops](./Loops.sh)
+- [x] [Loops](./Loops.sh)
 - [ ] [Array-Comparrison](./Array-Comparrison.sh)
 - [ ] [Shell Functions](./Functions.sh)
 
