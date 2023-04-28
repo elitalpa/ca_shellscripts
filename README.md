@@ -6,7 +6,7 @@ Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell P
 - [x] [Hello, World!](./Hello.sh)
 - [x] [Variables](./Variables.sh)
 - [x] [Passing Arguments to the Script](./Arguments.sh)
-- [ ] [Arrays](./Arrays.sh)
+- [x] [Arrays](./Arrays.sh)
 - [ ] [Basic Operators](./Operators.sh)
 - [ ] [Basic String Operations](./String.sh)
 - [ ] [Decision making](./Decision_Making.sh)
