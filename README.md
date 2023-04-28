@@ -21,5 +21,5 @@ Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell P
 - [x] Input Parameter Parsing
 - [x] [Pipelines](./Pipelines.sh)
 - [x] [Process Substitution](./Process_Substitution.sh)
-- [ ] Regular Expressions
+- [x] Regular Expressions
 - [ ] Special Commands sed,awk,grep,sort
