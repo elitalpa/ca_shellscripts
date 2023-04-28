@@ -22,4 +22,4 @@ Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell P
 - [x] [Pipelines](./Pipelines.sh)
 - [x] [Process Substitution](./Process_Substitution.sh)
 - [x] Regular Expressions
-- [ ] Special Commands sed,awk,grep,sort
+- [x] Special Commands sed,awk,grep,sort
