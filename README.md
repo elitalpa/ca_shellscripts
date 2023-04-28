@@ -11,7 +11,7 @@ Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell P
 - [x] [Basic String Operations](./String.sh)
 - [x] [Decision making](./Decision_Making.sh)
 - [x] [Loops](./Loops.sh)
-- [ ] [Array-Comparrison](./Array-Comparrison.sh)
+- [x] [Array-Comparrison](./Array-Comparrison.sh)
 - [ ] [Shell Functions](./Functions.sh)
 
 ## Advanced
