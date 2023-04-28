@@ -18,7 +18,7 @@ Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell P
 - [x] [Special variables](./Special_Variables.sh)
 - [x] [Bash trap command](./trap.sh)
 - [x] [File Testing](./File_Testing.sh)
-- [ ] Input Parameter Parsing
+- [x] Input Parameter Parsing
 - [ ] [Pipelines](./Pipelines.sh)
 - [ ] [Process Substitution](./Process_Substitution.sh)
 - [ ] Regular Expressions
