@@ -8,7 +8,7 @@ Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell P
 - [x] [Passing Arguments to the Script](./Arguments.sh)
 - [x] [Arrays](./Arrays.sh)
 - [x] [Basic Operators](./Operators.sh)
-- [ ] [Basic String Operations](./String.sh)
+- [x] [Basic String Operations](./String.sh)
 - [ ] [Decision making](./Decision_Making.sh)
 - [ ] [Loops](./Loops.sh)
 - [ ] [Array-Comparrison](./Array-Comparrison.sh)
