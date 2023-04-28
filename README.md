@@ -12,7 +12,7 @@ Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell P
 - [x] [Decision making](./Decision_Making.sh)
 - [x] [Loops](./Loops.sh)
 - [x] [Array-Comparrison](./Array-Comparrison.sh)
-- [ ] [Shell Functions](./Functions.sh)
+- [x] [Shell Functions](./Functions.sh)
 
 ## Advanced
 - [ ] [Special variables](./Special_Variables.sh)
