@@ -4,7 +4,7 @@ Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell P
 
 ## Basics
 - [x] [Hello, World!](./Hello.sh)
-- [ ] [Variables](./Variables.sh)
+- [x] [Variables](./Variables.sh)
 - [ ] [Passing Arguments to the Script](./Arguments.sh)
 - [ ] [Arrays](./Arrays.sh)
 - [ ] [Basic Operators](./Operators.sh)
