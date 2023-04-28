@@ -19,7 +19,7 @@ Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell P
 - [x] [Bash trap command](./trap.sh)
 - [x] [File Testing](./File_Testing.sh)
 - [x] Input Parameter Parsing
-- [ ] [Pipelines](./Pipelines.sh)
+- [x] [Pipelines](./Pipelines.sh)
 - [ ] [Process Substitution](./Process_Substitution.sh)
 - [ ] Regular Expressions
 - [ ] Special Commands sed,awk,grep,sort
