@@ -20,6 +20,6 @@ Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell P
 - [x] [File Testing](./File_Testing.sh)
 - [x] Input Parameter Parsing
 - [x] [Pipelines](./Pipelines.sh)
-- [ ] [Process Substitution](./Process_Substitution.sh)
+- [x] [Process Substitution](./Process_Substitution.sh)
 - [ ] Regular Expressions
 - [ ] Special Commands sed,awk,grep,sort
