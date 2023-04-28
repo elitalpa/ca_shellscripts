@@ -16,7 +16,7 @@ Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell P
 
 ## Advanced
 - [x] [Special variables](./Special_Variables.sh)
-- [ ] [Bash trap command](./trap.sh)
+- [x] [Bash trap command](./trap.sh)
 - [ ] [File Testing](./File_Testing.sh)
 - [ ] Input Parameter Parsing
 - [ ] [Pipelines](./Pipelines.sh)
