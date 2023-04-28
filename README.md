@@ -3,7 +3,7 @@
 Exercises from the [learnshell.org](https://learnshell.org/) interactive Shell Programming tutorial.
 
 ## Basics
-- [ ] [Hello, World!](./Hello.sh)
+- [x] [Hello, World!](./Hello.sh)
 - [ ] [Variables](./Variables.sh)
 - [ ] [Passing Arguments to the Script](./Arguments.sh)
 - [ ] [Arrays](./Arrays.sh)
